@@ -25,6 +25,6 @@ def main():
     # 创建应用实例
     app = AnalysisReportApp()
     app.run()
-
+# 增加主文件入口
 if __name__ == "__main__":
     main()
